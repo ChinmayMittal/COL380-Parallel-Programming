@@ -1,0 +1,11 @@
+Task_id;1;1;2;2;1;2;1;2
+Metric;Speedup;Efficiency;Speedup;Efficiency;Iso-efficiency;Iso-efficiency;Sequential Fraction;Sequential Fraction
+nodes = 2, thread = 2;1,46;0,36;1,36;0,34;Theta(p);Theta(p);0,75;0,52
+nodes = 2, thread = 4;1,45;0,18;1,39;0,17;Theta(p);Theta(p);0,75;0,52
+nodes = 2, thread = 8;1,466;0,09;1,37;0,085;Theta(p);Theta(p);0,75;0,52
+nodes = 4, thread = 2;1,24;0,156;2,51;0,31;Theta(p);Theta(p);0,75;0,52
+nodes = 4, thread = 4;1,24;0,07;2,64;0,16;Theta(p);Theta(p);0,75;0,52
+nodes = 4, thread = 8;1,18;0,037;2,22;0,069;Theta(p);Theta(p);0,75;0,52
+nodes = 8, thread = 2;1,20;0,07;4,00;0,25;Theta(p);Theta(p);0,75;0,52
+nodes = 8, thread = 4;1,31;0,04;4,24;0,13;Theta(p);Theta(p);0,75;0,52
+nodes = 8, thread = 8;1,19;0,01;3,699;0,0577;Theta(p);Theta(p);0,75;0,52
